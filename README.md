@@ -9,3 +9,5 @@ How to use:
 4. Choose how you want to donwload the video.
 
 Please put any issues or ideas for new feature in the issues tab.
+
+WARNING: there have been some bugs so i have had to take the files off to fix them
